@@ -12,7 +12,7 @@
   // Create database connection
   $db = mysqli_connect("localhost", "root", "", "image_upload");
 
-//helloguyssss
+
   // If upload button is clicked ...
   if (isset($_POST['upload'])) {
     // Get image name
